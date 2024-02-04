@@ -8,3 +8,4 @@ HTML skills shown;
 Basic HTML webpage creation
 Linking pages
 Adding images / simple text editting
+Basic Git commands
