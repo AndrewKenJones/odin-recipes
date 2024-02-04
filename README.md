@@ -9,6 +9,6 @@ Basic HTML webpage creation
 <br>
 Linking pages
 <br>
-Adding images / simple text editting
+Adding images / simple text editing
 <br>
 Basic Git commands
