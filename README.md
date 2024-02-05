@@ -1,10 +1,10 @@
 # odin-recipes
-Project: Recipes
-
-A short project creating a basic recipe website using HTML.
-
-HTML skills shown;
-HTML webpage creation (currently no CSS editing)
-Links between different webpages
-Adding images / simple text editing using lists etc
-Basic Git commands tested to update project
+<h1>Project: Recipes</h1>
+    <p>A short project creating a basic recipe website using HTML.</p>
+    <p>HTML skills shown;</p>
+        <ul>
+            <li>HTML webpage creation (currently no CSS editing)</li>
+            <li>Links between different webpages</li>
+            <li>Adding images / simple text editing using lists etc</li>
+            <li>Basic Git commands tested to update project</li>
+        </ul>
