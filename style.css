@@ -8,21 +8,12 @@ h1 {
     text-align: center;
     color: purple;
 }
-h2 {
+h2, h3, p {
     color: purple;
 }
-h3 {
-    color: purple;
-}
-a {
+a, li {
     color: green;
 }
-p {
-    color: purple;
-}
-li {
-    color: green;
-} 
 .credits {
     font-size: 16px;
 }
