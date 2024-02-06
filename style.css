@@ -1,14 +1,32 @@
-/* styles.css */
+/* style.css */
 
 * {
-    background-color: whitesmoke;
-    font-family: Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    font-family: Arial, "Times New Roman", sans-serif;
 }
-
 h1 {
     text-align: center;
+    color: purple;
 }
-
-h3 p {
-    color: blue;
+h2 {
+    color: purple;
+}
+h3 {
+    color: purple;
+}
+a {
+    color: green;
+}
+p {
+    color: purple;
+}
+li {
+    color: green;
+} 
+.credits {
+    font-size: 16px;
+}
+.another {
+    color: purple;
+    font-size: 18px;
 }
