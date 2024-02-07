@@ -1,5 +1,14 @@
 /* style.css */
 
+html {
+    display: inline-block;
+    padding: 10px;
+    margin: 10px;
+}
+body {
+    width: 500px;
+    margin: 0 auto;
+}
 * {
     background-color: lightsteelblue;
     font-family: Arial, "Times New Roman", sans-serif;
@@ -11,8 +20,15 @@ h1 {
 h2, h3, p {
     color: purple;
 }
+p {
+    background-color: lightcoral;
+    border: 2px solid purple;
+}
 a, li {
     color: green;
+}
+img {
+    border: solid 2px purple;
 }
 .credits {
     font-size: 16px;
