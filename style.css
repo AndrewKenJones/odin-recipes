@@ -2,38 +2,41 @@
 
 html {
     display: inline-block;
+    font-family: Arial, "Times New Roman", sans-serif;
     padding: 10px;
     margin: 10px;
 }
 body {
-    width: 500px;
+    background-color: grey;
+    width: 600px;
     margin: 0 auto;
-}
-* {
-    background-color: lightsteelblue;
-    font-family: Arial, "Times New Roman", sans-serif;
 }
 h1 {
     text-align: center;
     color: purple;
 }
-h2, h3, p {
+h2, h3 {
     color: purple;
 }
 p {
-    background-color: lightcoral;
+    background-color: green;
+    color: whitesmoke;
     border: 2px solid purple;
+    padding: 6px;
 }
-a, li {
-    color: green;
+li, a {
+    color: whitesmoke;
+    padding: 2px;
 }
 img {
     border: solid 2px purple;
 }
-.credits {
-    font-size: 16px;
-}
-.another {
-    color: purple;
+.hlight {
+    text-align: center;
+    color: whitesmoke;
     font-size: 18px;
+    padding: 6px;
+    margin: 4px;
+    background-color: green;
+    border: 2px solid purple;
 }
